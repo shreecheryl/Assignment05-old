@@ -102,6 +102,15 @@ function startStop() {
 btnStart.addEventListener("click", startStop);
 */
 
+// STEP 10
+/*
+var list = document.getElementById("cars");
+var btnSelect = document.getElementById("selection");
+btnSelect.addEventListener("click", function () {
+    "use strict";
+    window.alert(list.options[list.selectedIndex].text);
+});
+*/
 
 
 
